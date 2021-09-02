@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "www.mbraunwarth.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "beautifulhugo"
