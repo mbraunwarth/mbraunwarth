@@ -1,2 +1,3 @@
 # Hugo build folder
 public/
+.hugo_build.lock
