@@ -29,5 +29,7 @@ high competition of flutter devs, better learn elixir or haskell
 
 ## First Programs
 
-- hello world for backend
+- make use of [api reference](api.dart.dev)
+- hello world
+- hello world for backend [see here](https://api.dart.dev/stable/2.16.1/dart-io/HttpServer-class.html)
 - cli calculator app
