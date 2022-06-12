@@ -1,4 +1,4 @@
-baseURL = "http://www.mbraunwarth.com"
+baseURL = "https://www.mbraunwarth.com"
 languageCode = "en-us"
 title = "Markus Braunwarth"
 theme = "PaperMod"
